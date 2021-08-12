@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gabriel.p.lutz@gmail.com)](mailto:gabriel.p.lutz@gmail.com)
 
 ## About me:
-Junior Full Stack Developer that is currently looking for challenges, learning opportunities and having fun in the process. Loves to spend some time messing around with new libraries.
+Junior Full Stack Developer that is currently looking for challenges, learning opportunities and having fun in the process. Loves to spend five hours debugging a project to find the semi-colon that is missing.
 
 
 ### Languages and Tools:
